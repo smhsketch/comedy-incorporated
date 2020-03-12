@@ -5,6 +5,9 @@ body {
     margin: 0;
     background-attachment: fixed;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    text-align: center;
+    align-items: center;
 }
 
 h1 {
@@ -17,6 +20,6 @@ h1 {
     
 }
 
-h2 {
-    
+img {
+    align-self: center;
 }
